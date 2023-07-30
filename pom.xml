@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hyvercode</groupId>
-	<artifactId>spring</artifactId>
+	<artifactId>spring-boot-tutorial</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring</name>
 	<description>Tutorial project for Spring Boot</description>
