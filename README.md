@@ -6,6 +6,7 @@
 ### Days
     - Hello Application
     - Replace Tomcat with Jetty
+    - API 404 exception hanlder
 
 
 
