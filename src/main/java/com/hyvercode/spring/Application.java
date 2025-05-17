@@ -15,7 +15,7 @@ public class Application {
 
 	@RequestMapping("/")
 	public String first(){
-		return "My First Spring Boot Application";
+		return "My First Day Spring Boot Application";
 	}
 
 }
